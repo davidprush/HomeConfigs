@@ -1,0 +1,47 @@
+# Comment if long list is used, use $git -f <File Name>
+*.*
+#******************************************************************
+# Long List
+# Comment files to include in git repo, if "*.*" above is commented
+.android
+.bash_history
+.bash_logout
+.bashrc
+.cache
+.config
+.dbus
+Desktop
+Documents
+Downloads
+.ecryptfs
+.electron
+examples.desktop
+Fonts
+.gconf
+.git
+.gitconfig
+.gitignore
+.gnome
+.gnupg
+.gvfs
+.ICEauthority
+.local
+.mozilla
+Music
+.nano
+.node_repl_history
+.npm
+.nv
+.nvidia-settings-rc
+Pictures
+.pki
+.Private
+.profile
+Projects
+Public
+.ssh
+.sudo_as_admin_successful
+Templates
+Videos
+.vscode
+.weechat
