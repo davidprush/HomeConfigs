@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="image" mtime="1509014043" schema="/schemas/apps/guake/style/background/image"/>
+	<entry name="color" mtime="1509014043" schema="/schemas/apps/guake/style/background/color"/>
+	<entry name="transparency" mtime="1509020948" schema="/schemas/apps/guake/style/background/transparency" type="int" value="10"/>
+</gconf>
